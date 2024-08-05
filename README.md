@@ -10,4 +10,5 @@ A python project to merge pdf files.
 4. Run `app.py` to get a file `merged.pdf` under the root directory
 
 (Note: The pdf files will be merged by alphabetical order. Please rename your files to achieve the desired merge order)
+
 (Note: Python version 3.11 is used for this project)
